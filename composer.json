@@ -1,0 +1,15 @@
+{
+    "name": "sjagi/phpphp",
+    "autoload": {
+        "psr-4": {
+            "Sjagi\\Phpphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mamedovsh",
+            "email": "shagin.mamedoff@yandex.ru"
+        }
+    ],
+    "require": {}
+}
